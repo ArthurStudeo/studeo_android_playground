@@ -1,4 +1,4 @@
-package com.example.testfcintegration.ui.home
+package com.studeo.playgroung.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import com.example.testfcintegration.databinding.FragmentHomeBinding
+import com.studeo.staging.playgroung.databinding.FragmentHomeBinding
 
 class HomeFragment : Fragment() {
 

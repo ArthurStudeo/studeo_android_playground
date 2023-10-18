@@ -1,4 +1,4 @@
-package com.example.testfcintegration
+package com.studeo.playgroung
 
 import org.junit.Test
 
